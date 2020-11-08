@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations":[
+        {
+            "name": "Debug Alexa Skill (Node.js)",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/lambda/local-debugger.js",
+            "args": [
+                "--portNumber", "3001",
+                "--skillEntryFile", "${workspaceRoot}/lambda/src/index.js",
+                "--lambdaHandler", "handler"
+            ]
+        }
+    ]
+}
