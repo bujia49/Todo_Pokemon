@@ -24,7 +24,9 @@
                         }
                     ],
                     "samples": [
-                        "que pokemon es {pokemon}"
+                        "que pokemon es {pokemon}",
+						"el pokemon {pokemon}",
+						"un {pokemon}"
                     ]
                 },
                 {

@@ -8,8 +8,8 @@
             "default": {
               "lambda": {
                 "arn": "arn:aws:lambda:eu-west-1:525935192858:function:ask-as-pokedex-default-default-1604779093824",
-                "lastModified": "2020-11-07T19:59:29.944+0000",
-                "revisionId": "730e2b86-3e87-455e-b358-4b7ee2470cb3"
+                "lastModified": "2020-11-08T09:17:37.569+0000",
+                "revisionId": "f77b8f15-0f6c-4163-9d02-044c73f922d8"
               },
               "iamRole": "arn:aws:iam::525935192858:role/ask-lambda-as-pokedex-1604779092249"
             }
@@ -22,7 +22,7 @@
       },
       "code": {
         "default": {
-          "lastDeployHash": "g6Ocmclb9dt0TaSCL3tUwX0cd/o="
+          "lastDeployHash": "hFLrsGZimeRFhHMJ+yBt0kgw0jc="
         }
       }
     }

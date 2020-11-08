@@ -1,10 +1,7 @@
 'use strict';
 
 /* *
- * We create a language strings object containing all of our strings.
- * The keys for each string will then be referenced in our code, e.g. i18n.t('WELCOME_MSG').
- * The localisation interceptor in index.js will automatically choose the strings
- * that match the request's locale.
+ * Aquí van todos los idiomas
  * */
 
 module.exports = {
