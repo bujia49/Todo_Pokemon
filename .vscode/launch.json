@@ -1,10 +1,14 @@
 {
     "version": "0.2.0",
     "configurations":[
+        
         {
-            "name": "Debug Alexa Skill (Node.js)",
+            "name": "Launch Skill",
             "type": "node",
             "request": "launch",
+            "env": {
+                "DYNAMODB_LOCAL": "true"
+            },
             "program": "${workspaceRoot}/lambda/local-debugger.js",
             "args": [
                 "--portNumber", "3001",
