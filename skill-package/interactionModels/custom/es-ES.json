@@ -24,10 +24,10 @@
                         }
                     ],
                     "samples": [
-                        "que pokemon es {pokemon}",
-						"el pokemon {pokemon}",
+                        "que pokemon es {pokemon}", 
                         "un {pokemon}",
-                        "el {pokemon}"
+                        "el {pokemon}",
+                        "el pokemon {pokemon}"
                     ]
                 },
                 {
