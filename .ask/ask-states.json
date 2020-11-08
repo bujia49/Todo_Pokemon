@@ -8,8 +8,8 @@
             "default": {
               "lambda": {
                 "arn": "arn:aws:lambda:eu-west-1:525935192858:function:ask-as-pokedex-default-default-1604779093824",
-                "lastModified": "2020-11-08T09:17:37.569+0000",
-                "revisionId": "f77b8f15-0f6c-4163-9d02-044c73f922d8"
+                "lastModified": "2020-11-08T10:35:16.201+0000",
+                "revisionId": "4ff0d170-fa85-4405-b2e8-db28089efab7"
               },
               "iamRole": "arn:aws:iam::525935192858:role/ask-lambda-as-pokedex-1604779092249"
             }
@@ -18,7 +18,7 @@
       },
       "skillId": "amzn1.ask.skill.3f2ee453-cbc9-411e-bd7d-dbe1aa0b96a9",
       "skillMetadata": {
-        "lastDeployHash": "lipR4a+vrB3Tcfw1eMM2ULARTOE="
+        "lastDeployHash": "ExcgMwIfRULzo9vq6i0XRjwcOy4="
       },
       "code": {
         "default": {
