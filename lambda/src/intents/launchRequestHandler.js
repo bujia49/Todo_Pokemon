@@ -1,5 +1,5 @@
 'use strict';
-
+// este es el launch
 const Alexa = require('ask-sdk-core');
 const i18n = require('i18next');
 const welcome_document = require('../documents/apla/text_audio_background.json'); 
